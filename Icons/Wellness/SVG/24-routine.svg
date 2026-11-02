@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452.82 452.82">
+  <g id="_24-routine" data-name="24-routine">
+    <g>
+      <line x1="237.6" y1="218.7" x2="236.84" y2="175.11" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M236.84,175.11l2.21-.48c4.09-.11,7.34-3.45,7.34-7.54v-12.67c0-66.1-25.76-60.97-25.76-60.97v100.21" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <g>
+        <line x1="140.09" y1="219.02" x2="103.17" y2="219.02" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <path d="M103.17,198.25h40.86c7.5-.27,15.04,4.66,16.07,12.76l69.26-.15c4.56-.07,8.29,3.6,8.29,8.16h0c0,4.56-3.73,8.23-8.29,8.16l-69.22-.2c-.68,7.47-8.45,12.8-16.11,12.8h-40.86" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+    </g>
+    <line x1="226.41" y1="303.18" x2="226.41" y2="305.48" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="285.81" y1="278.58" x2="287.44" y2="280.21" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="310.41" y1="219.18" x2="312.71" y2="219.18" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="285.81" y1="159.78" x2="287.44" y2="158.15" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="167.01" y1="159.78" x2="165.38" y2="158.15" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="167.01" y1="278.58" x2="165.38" y2="280.21" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="312.71" y1="219.18" x2="310.41" y2="219.18" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="M81.37,219.18c0-80.1,64.94-145.04,145.04-145.04s145.04,64.94,145.04,145.04-64.94,145.04-145.04,145.04" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <g>
+      <line x1="226.41" y1="364.22" x2="226.41" y2="364.22" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M205.75,362.76c-66.97-9.55-119.2-64.85-124.03-133.23" fill="none" stroke="#3f3a34" stroke-dasharray="0 20.71" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <line x1="81.37" y1="219.18" x2="81.37" y2="219.18" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+    <path d="M260.51,112.35c45.24,14.43,78.01,56.8,78.01,106.83,0,61.92-50.19,112.11-112.11,112.11-49.57,0-91.62-32.17-106.42-76.76" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="M119.51,185.31c11.99-37.88,43.56-67.05,82.82-75.65" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <polyline points="236.81 378.68 222.35 365.32 236.81 351.96" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452.82 452.82">
+  <g id="_47-sleep" data-name="47-sleep">
+    <path d="M367.6,241.52h0c-94-6.96-188.39-6.96-282.39,0h0v84.97h282.39v-84.97Z" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <g>
+      <line x1="116.17" y1="326.49" x2="116.17" y2="355.99" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <line x1="336.64" y1="326.49" x2="336.64" y2="355.99" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+    <path d="M197.1,156.01h-75.76c-14.03,0-25.41,11.38-25.41,25.41v41.42" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="M356.89,222.83v-41.42c0-14.03-11.38-25.41-25.41-25.41h-75.99" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <g>
+      <path d="M207.7,218.21l-.53-4.54c-.57-4.83-.62-9.71-.16-14.56l.43-4.55c.14-1.46-1.01-2.72-2.48-2.72h-63.65c-1.47,0-2.61,1.26-2.48,2.72l.43,4.55c.46,4.85.41,9.73-.16,14.56l-.53,4.54" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M314.24,218.21l-.53-4.54c-.57-4.83-.62-9.71-.16-14.56l.43-4.55c.14-1.46-1.01-2.72-2.48-2.72h-63.66c-1.47,0-2.61,1.26-2.48,2.72l.43,4.55c.46,4.85.41,9.73-.16,14.56l-.53,4.54" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+    <g>
+      <polyline points="177.37 96.83 200.39 96.83 178.08 119.14 200.39 119.14" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <polyline points="214.22 133.68 237.24 133.68 214.93 155.99 237.24 155.99" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <polyline points="252.43 99.49 275.45 99.49 253.14 121.8 275.45 121.8" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+  </g>
+</svg>

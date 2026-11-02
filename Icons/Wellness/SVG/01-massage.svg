@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452.82 452.82">
+  <g id="_01-massage" data-name="01-massage">
+    <circle cx="327.95" cy="250.5" r="33.4" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <circle cx="197.61" cy="111.65" r="33.4" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="M354.61,277.64h16.24c8.59,0,15.55,6.96,15.55,15.56h0c0,8.59-6.96,15.56-15.55,15.56h-66.31c-12.79,0-25-5.35-33.67-14.76l-15.08-16.35" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="M273.05,244.24c7.98,1.37,15.51,4.86,21.75,10.21h0" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="182.38" y1="249.03" x2="198.44" y2="247.96" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <polyline points="66.41 340.52 386.41 340.52 386.41 308.75 66.41 308.75" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <polyline points="177.8 307.36 177.8 238.94 76.72 238.94" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <g>
+      <line x1="77.66" y1="340.52" x2="77.66" y2="374.57" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <line x1="343.89" y1="340.52" x2="343.89" y2="374.57" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+    <path d="M99.54,220.74l19.71-45.81c7.03-16.34,25.97-23.88,42.31-16.85l33.05,14.22c6.59,2.84,12.55,6.97,17.51,12.16l28.49,32.64,25.55,10.81c6.19,2.62,9.36,9.52,7.31,15.92h0c-2.11,6.6-9.03,10.38-15.73,8.59l-29.8-7.97c-4.81-1.29-9.19-3.83-12.7-7.36l-29.21-29.47-14.05,31.33" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+  </g>
+</svg>

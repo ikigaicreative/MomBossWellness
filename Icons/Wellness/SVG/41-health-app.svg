@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452.82 452.82">
+  <g id="_41-health-app" data-name="41-health-app">
+    <path d="M291.07,361.44c0,10.81-8.77,19.58-19.58,19.58h-34.23" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="M237.26,381.02h-86.02c-12.56,0-22.75-10.18-22.75-22.75V91.38c0-10.81,8.77-19.58,19.58-19.58h123.42c10.81,0,19.58,8.77,19.58,19.58v124.31" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="201.76" y1="94.45" x2="217.81" y2="94.45" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <polygon points="217.81 160.97 198.27 160.97 198.27 141.43 177.44 141.43 177.44 160.97 157.9 160.97 157.9 181.8 177.44 181.8 177.44 201.34 198.27 201.34 198.27 181.8 217.81 181.8 217.81 160.97" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="244.74" y1="141.43" x2="269.65" y2="141.43" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="244.74" y1="171.38" x2="269.65" y2="171.38" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="244.74" y1="201.34" x2="269.65" y2="201.34" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="201.76" y1="248.43" x2="324.32" y2="248.43" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="201.76" y1="285.39" x2="324.32" y2="285.39" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="201.76" y1="322.35" x2="324.32" y2="322.35" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <polyline points="163.01 243.67 167.76 248.43 180.53 235.66" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <polyline points="163.01 280.64 167.76 285.39 180.53 272.62" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <polyline points="163.01 317.6 167.76 322.35 180.53 309.58" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+  </g>
+</svg>

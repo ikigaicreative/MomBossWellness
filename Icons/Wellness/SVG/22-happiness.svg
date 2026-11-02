@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452.82 452.82">
+  <g id="_22-happiness" data-name="22-happiness">
+    <path d="M247.59,79.62h0c5.66,5.66,5.66,14.85,0,20.51l-21.24,21.24-21.24-21.24c-5.66-5.66-5.66-14.85,0-20.51h0c5.66-5.66,14.85-5.66,20.51,0l.73.73.73-.73c5.66-5.66,14.85-5.66,20.51,0Z" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="M399.53,276.16h0c3.56,3.56,3.56,9.34,0,12.9l-13.36,13.36-13.36-13.36c-3.56-3.56-3.56-9.34,0-12.9h0c3.56-3.56,9.34-3.56,12.9,0l.46.46.46-.46c3.56-3.56,9.34-3.56,12.9,0Z" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="M80.01,276.16h0c3.56,3.56,3.56,9.34,0,12.9l-13.36,13.36-13.36-13.36c-3.56-3.56-3.56-9.34,0-12.9h0c3.56-3.56,9.34-3.56,12.9,0l.46.46.46-.46c3.56-3.56,9.34-3.56,12.9,0Z" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <g>
+      <path d="M190.57,314.6c10.11,7.14,22.45,11.34,35.78,11.34s25.66-4.2,35.78-11.34" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <circle cx="226.35" cy="266.14" r="111.31" transform="translate(-121.89 238) rotate(-45)" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M162.92,245.69c5.04,6.13,12.68,10.04,21.24,10.04s16.2-3.91,21.24-10.04c-5.04,6.13-12.69,10.04-21.24,10.04s-16.2-3.91-21.24-10.04Z" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M268.53,255.73c-8.56,0-16.2-3.91-21.24-10.04,5.04,6.13,12.69,10.04,21.24,10.04s16.2-3.91,21.24-10.04c-5.04,6.13-12.69,10.04-21.24,10.04Z" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+    <g>
+      <g>
+        <line x1="123.8" y1="114.75" x2="137.02" y2="127.97" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <line x1="137.02" y1="114.75" x2="123.8" y2="127.97" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <g>
+        <line x1="315.26" y1="108.14" x2="328.48" y2="121.36" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <line x1="328.48" y1="108.14" x2="315.26" y2="121.36" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <g>
+        <line x1="376.82" y1="212.26" x2="395.52" y2="212.26" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <line x1="386.17" y1="202.91" x2="386.17" y2="221.61" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <g>
+        <line x1="93.43" y1="154.82" x2="76.1" y2="137.5" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <line x1="118.36" y1="179.76" x2="107.82" y2="169.22" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <line x1="360.69" y1="153.41" x2="376.59" y2="137.5" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <line x1="334.34" y1="179.76" x2="346.49" y2="167.61" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+    </g>
+    <g>
+      <line x1="82.48" y1="212.26" x2="63.78" y2="212.26" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <line x1="73.13" y1="221.61" x2="73.13" y2="202.91" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+  </g>
+</svg>

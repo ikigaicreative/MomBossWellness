@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452.82 452.82">
+  <g id="_45-fitness-tracker" data-name="45-fitness-tracker">
+    <g>
+      <path d="M278.83,109.38l-4.14-18.44c-1.46-6.52-7.25-11.15-13.92-11.15h-68.08c-6.68,0-12.46,4.63-13.92,11.15l-4.14,18.44" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M174.62,343.44l4.14,18.44c1.46,6.52,7.25,11.15,13.92,11.15h68.08c6.68,0,12.46-4.63,13.92-11.15l4.14-18.44" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+    <path d="M180.25,127.42h92.32c21.78,0,39.46,17.68,39.46,39.46v119.06c0,21.78-17.68,39.46-39.46,39.46h-92.32c-21.78,0-39.46-17.68-39.46-39.46v-119.06c0-21.78,17.68-39.46,39.46-39.46Z" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="M202.04,236.07h11.21l7.25-9.71,5.57,18.81,10.32-26.2,7.38,16.47s36.85-.37,36.85-.37c11.79-14.12,11.31-35.16-1.95-48.42h0c-14.03-14.03-36.79-14.03-50.82,0l-1.43,1.43-1.43-1.43c-14.03-14.03-36.79-14.03-50.82,0h0c-14.03,14.03-14.03,36.79,0,50.82l1.43,1.43,50.82,50.82,34.72-34.72" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="320.78" y1="217.23" x2="320.78" y2="244.33" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <g>
+      <g>
+        <path d="M110,202.15c-7.88,5.19-13.08,14.11-13.08,24.26s5.2,19.06,13.08,24.26" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <path d="M98.77,272.36c-14.93-9.84-24.78-26.74-24.78-45.95,0-19.21,9.86-36.11,24.78-45.95" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <g>
+        <path d="M342.81,250.67c7.88-5.19,13.08-14.11,13.08-24.26s-5.2-19.06-13.08-24.26" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <path d="M354.05,180.46c14.93,9.83,24.78,26.74,24.78,45.95s-9.86,36.11-24.78,45.95" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+    </g>
+  </g>
+</svg>

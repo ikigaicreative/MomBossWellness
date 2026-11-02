@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.04 642.04">
+  <g>
+    <polyline points="202.92 236.36 120.08 236.36 120.08 495.21 521.95 495.21 521.95 234.47 429.48 234.47" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <polyline points="207.99 491.66 207.99 146.82 426.28 146.82 426.28 495.21" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+  <g>
+    <polyline points="267.96 489.97 267.96 391.62 374.07 391.62 374.07 493.42" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="322.07" y1="489.97" x2="322.07" y2="393.17" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+  <g>
+    <rect x="245.07" y="273.95" width="151.9" height="63.63" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <g>
+      <line x1="295.87" y1="278.63" x2="295.87" y2="334.43" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <line x1="346.16" y1="278.63" x2="346.16" y2="334.43" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    </g>
+  </g>
+  <g>
+    <line x1="147.08" y1="276.58" x2="178.59" y2="276.58" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="147.08" y1="307.37" x2="178.59" y2="307.37" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="147.08" y1="338.16" x2="178.59" y2="338.16" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="147.08" y1="368.95" x2="178.59" y2="368.95" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="147.08" y1="399.74" x2="178.59" y2="399.74" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="147.08" y1="430.53" x2="178.59" y2="430.53" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="147.08" y1="461.32" x2="178.59" y2="461.32" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+  <g>
+    <line x1="457.03" y1="276.58" x2="488.54" y2="276.58" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="457.03" y1="307.37" x2="488.54" y2="307.37" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="457.03" y1="338.16" x2="488.54" y2="338.16" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="457.03" y1="368.95" x2="488.54" y2="368.95" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="457.03" y1="399.74" x2="488.54" y2="399.74" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="457.03" y1="430.53" x2="488.54" y2="430.53" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="457.03" y1="461.32" x2="488.54" y2="461.32" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+  <text transform="translate(258.09 219.57)" font-family="MyriadPro-Bold, &apos;Myriad Pro&apos;" font-size="53.33" font-weight="700"><tspan x="0" y="0">GYM</tspan></text>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452.82 452.82">
+  <g id="_43-slim-waist" data-name="43-slim-waist">
+    <g>
+      <g>
+        <path d="M120.04,109.1c0,25.4,20.59,46,46,46,11.28,0,21.62-4.06,29.62-10.81,8.66-7.3,19.65-11.27,30.98-11.27h0c11.33,0,22.31,3.97,30.98,11.27,8,6.74,18.34,10.81,29.62,10.81,25.4,0,46-20.59,46-46" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <path d="M288.71,80.44h0c-17.69,16.08-62.43,27.77-62.43,27.77,0,0-44.23-11.86-61.74-27.77h0" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <path d="M334.2,370.58c1.15-4.75,2.01-9.64,2.55-14.63.14-1.3.26-2.6.36-3.9.65-8.78.12-17.58-1.44-26.2-2.14-11.88-6.79-23.13-12.73-33.64-15.29-27.06-22.72-56.04-23.4-84.62-.48-20.24,3.1-39.24,10.12-56.71" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M118.62,370.58c-1.15-4.75-2.01-9.64-2.55-14.63-.14-1.3-.26-2.6-.36-3.9-.76-10.25.12-20.51,2.34-30.51,2.19-9.86,6.1-19.26,11.05-28.07,15.19-27.07,23.96-57.7,24.64-85.89.48-20.24-3.1-39.24-10.12-56.71" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <g>
+        <path d="M325.42,301.1c-25.6,5.51-62.22,21.24-98.8,57.07-36.57-35.83-73.53-51.55-99.13-57.05" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <path d="M127.5,301.12c31.91-1.59,64.88-3.12,99.12-3.12s67.09,1.54,98.8,3.11" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <line x1="226.64" y1="245.98" x2="226.64" y2="254.19" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <line x1="226.63" y1="358.17" x2="226.63" y2="372.38" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+    <g>
+      <g>
+        <line x1="66.41" y1="221.51" x2="119.16" y2="221.51" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <polyline points="101.77 240.73 124.7 221.51 101.77 202.29" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <g>
+        <line x1="386.41" y1="221.5" x2="333.66" y2="221.5" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        <polyline points="351.05 202.29 328.12 221.51 351.05 240.73" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+    </g>
+  </g>
+</svg>

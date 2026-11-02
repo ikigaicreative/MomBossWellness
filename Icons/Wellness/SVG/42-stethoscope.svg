@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452.82 452.82">
+  <g id="_42-stethoscope" data-name="42-stethoscope">
+    <g>
+      <path d="M297.04,80.36h11.26v-9.34h-11.26c-2.58,0-4.67,2.09-4.67,4.67h0c0,2.58,2.09,4.67,4.67,4.67Z" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M264.52,71.03h-11.26v9.34h11.26c2.58,0,4.67-2.09,4.67-4.67h0c0-2.58-2.09-4.67-4.67-4.67Z" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+    <path d="M133.95,242.51v65.86c0,40.55,32.87,73.41,73.41,73.41h0c40.55,0,73.41-32.87,73.41-73.41v-65.86" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <circle cx="133.95" cy="208.53" r="32.73" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="M257.15,75.69h-3.7c-17.59,0-33.78,10.61-39.84,27.12-.04.11-.08.22-.12.33-5.34,14.81-4.59,30.81,2.11,45.06l34.41,73.16c4.91,10.43,14.92,17.53,26.39,18.69h8.74c11.47-1.17,21.49-8.26,26.39-18.69l34.41-73.16c6.7-14.24,7.45-30.25,2.11-45.06-.04-.11-.08-.22-.12-.33-6.06-16.51-22.25-27.12-39.84-27.12h-3.7" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.04 642.04">
+  <path d="M357.99,406.24c0-43.65.22-87.29-.14-130.94-.1-12.11,2.39-20.24,15.16-25.77,21.22-9.18,42.96-17.5,62.91-29.64,3.03-1.85,7.61-3.04,9.64-5.64,2.71-3.47,5.69-7.42,2.29-13.46-4.19-7.47-10.9-6.04-15.38-4.51-13.32,4.55-26.22,10.5-38.96,16.57-47.66,22.69-94.87,17.95-141.96-1.75-9.55-4-19.69-6.96-28.56-12.11-8.06-4.68-15.73-5.71-19.94,2.23-3.25,6.11.07,13.12,7.9,16.74,18.74,8.67,37.02,18.36,55.86,26.8,21.49,9.63,26.23,9.29,26.79,38.98.77,40.82.19,81.66.19,122.49" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="151.19" y1="407.25" x2="506.27" y2="407.25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="325.78" y1="406.24" x2="325.78" y2="353.02" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <polygon points="326.62 414.28 286.56 483.18 375.62 483.18 326.62 414.28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <circle cx="325.64" cy="184.52" r="25.66" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <g>
+    <circle cx="191.19" cy="324.48" r="55.42" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <g>
+      <line x1="212.31" y1="301.01" x2="168.82" y2="347.96" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <line x1="167.09" y1="301.01" x2="214.04" y2="344.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    </g>
+  </g>
+  <g>
+    <circle cx="449.82" cy="324.1" r="55.42" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="426.22" y1="315.89" x2="473.43" y2="315.89" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="426.22" y1="338.47" x2="473.43" y2="338.47" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+</svg>

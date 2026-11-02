@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.04 642.04">
+  <path d="M256.89,178.37c-13.52,0-27.06.55-40.54-.16-12.71-.67-17.2,4.37-17.1,17.06.45,53.5.19,107,.19,160.5,0,44.49.31,88.99-.19,133.47-.14,12.68,4.41,17.16,17.09,17.09,69.83-.4,139.67-.5,209.5.09,13.31.11,16.95-5.59,16.94-17.17-.07-97.99-.07-195.99,0-293.98,0-11.58-3.58-18.07-16.95-17.13-14.57,1.02-29.27.23-43.91.23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path d="M380.23,180.06v20.27h-62.51c-14.08,0-28.24-.97-42.22.24-17.55,1.52-14.91-12.52-14.37-20.46.46-6.85-.5-20.46,14.35-18.64,10.12,1.24,16.1-1.92,22.53-11.45,13.84-20.51,34.31-18.86,46.24,3.27,4.34,8.05,9.16,9.08,15.68,8.01,13.92-2.3,19.48,4.72,21.15,17.07" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <polyline points="234.87 320.15 252.32 333.82 277.17 308.46" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="308.1" y1="308.46" x2="409.48" y2="308.46" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="308.1" y1="334.64" x2="366.71" y2="334.64" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="308.1" y1="374.15" x2="409.48" y2="374.15" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="308.1" y1="400.32" x2="366.71" y2="400.32" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="308.1" y1="439.83" x2="409.48" y2="439.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="308.1" y1="466.01" x2="366.71" y2="466.01" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <rect x="233.91" y="367.55" width="41.05" height="32.84" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <rect x="233.91" y="434.26" width="41.05" height="32.84" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <text transform="translate(260.88 269.23)" font-family="MyriadPro-Bold, &apos;Myriad Pro&apos;" font-size="56.68" font-weight="700"><tspan x="0" y="0">DIET</tspan></text>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452.82 452.82">
+  <g id="_10-cycling" data-name="10-cycling">
+    <g>
+      <line x1="228.17" y1="271.89" x2="268.86" y2="221.43" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <polyline points="321.58 192.53 299.17 180.18 289.61 192.53" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <line x1="324.8" y1="296.73" x2="290.5" y2="221.43" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M229.68,271.89c8.11,0,14.68,6.57,14.68,14.68,0,7.64-5.84,13.92-13.3,14.62" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <polyline points="177.21 221.43 128.02 296.73 183.96 296.73" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <line x1="290.5" y1="221.43" x2="228.17" y2="221.43" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M178.72,320.4c-8.92,19.07-28.27,32.27-50.7,32.27-30.9,0-55.94-25.05-55.94-55.94s25.05-55.94,55.94-55.94c3.42,0,6.76.31,10.01.89" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M158.62,249.89c4.11,2.69,7.84,5.9,11.1,9.54" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M301.61,245.8c7.07-3.22,14.92-5.02,23.2-5.02,30.9,0,55.94,25.05,55.94,55.94s-25.05,55.94-55.94,55.94-55.94-25.05-55.94-55.94c0-13.42,4.72-25.74,12.6-35.38" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <line x1="189.79" y1="307.35" x2="217.12" y2="310.07" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <circle cx="274.46" cy="120.46" r="20.32" transform="translate(117.09 375.57) rotate(-82.03)" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M260.39,178.83l-8.1-14.02.05-.03-14.11-24.37c-6.17-10.66-19.78-14.37-30.51-8.3l-3.32,1.88v.02s-32.56,18.46-32.56,18.46l-.27.15c-13.48,7.5-18.18,24.61-10.41,37.93l25.24,43.28v55.79c0,7.69,6.12,13.98,13.8,14.2h0c8,.23,14.6-6.2,14.6-14.2v-63.49h0s-17.58-30.13-17.58-30.13l32.37-18.35,11.63,20.14-.02.03,40.77,22.02c6.17,3.33,13.87,1.17,17.4-4.9h0c3.7-6.36,1.39-14.52-5.1-17.99l-33.92-18.13Z" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <line x1="165.13" y1="200.36" x2="145.27" y2="200.36" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+    <line x1="112.87" y1="142.72" x2="143.16" y2="142.72" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <line x1="87.63" y1="170.93" x2="128.02" y2="170.93" fill="none" stroke="#3f3a34" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+  </g>
+</svg>

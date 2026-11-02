@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.04 642.04">
+  <g>
+    <path d="M326.82,233.02c-37.01,2.05-65.14,17.76-81.2,52.39-5.26,11.34-6.76,23.25-6.72,35.53" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <circle cx="321.02" cy="321.02" r="119.05" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+  <g>
+    <line x1="322.04" y1="120.88" x2="322.04" y2="169.12" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="221.84" y1="147.18" x2="245.96" y2="188.96" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="148.21" y1="220.06" x2="189.98" y2="244.18" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="120.88" y1="319.99" x2="169.12" y2="319.99" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="147.18" y1="420.2" x2="188.96" y2="396.08" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="220.06" y1="493.83" x2="244.18" y2="452.05" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="319.99" y1="521.15" x2="319.99" y2="472.92" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="420.2" y1="494.85" x2="396.08" y2="453.08" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="493.83" y1="421.97" x2="452.05" y2="397.86" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="521.15" y1="322.04" x2="472.92" y2="322.04" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="494.85" y1="221.84" x2="453.08" y2="245.96" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="421.97" y1="148.21" x2="397.86" y2="189.98" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+</svg>
