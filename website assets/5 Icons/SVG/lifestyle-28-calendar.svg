@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.04 642.04">
+  <path d="M445.65,159.88h53.91c9.38,0,16.98,7.6,16.98,16.98v322.19c0,9.38-7.6,16.98-16.98,16.98H142.48c-9.38,0-16.98-7.6-16.98-16.98V176.86c0-9.38,7.6-16.98,16.98-16.98h52.81" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="335.9" y1="159.88" x2="412.87" y2="159.88" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="227.11" y1="159.88" x2="304.08" y2="159.88" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <rect x="195.29" y="126.01" width="31.82" height="70.82" rx="11.75" ry="11.75" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <rect x="304.08" y="126.01" width="31.82" height="70.82" rx="11.75" ry="11.75" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <rect x="412.87" y="126.01" width="31.82" height="70.82" rx="11.75" ry="11.75" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="125.52" y1="228.32" x2="516.53" y2="228.32" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path d="M259.15,258.54c-.18-.18,0,231.63,0,231.63" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path d="M381.28,258.54c-.18-.18,0,231.63,0,231.63" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="156.01" y1="327.86" x2="484.01" y2="327.86" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <line x1="156.01" y1="409.97" x2="484.01" y2="409.97" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <rect x="419.03" y="270.73" width="46.18" height="29.76" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <rect x="419.03" y="355.91" width="46.18" height="29.76" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <rect x="296.9" y="441.1" width="46.18" height="29.76" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <rect x="175.79" y="441.1" width="46.18" height="29.76" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <rect x="175.79" y="355.91" width="46.18" height="29.76" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <polyline points="296.9 287.91 313.69 304.19 341.99 270.38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <polyline points="296.9 372.06 313.69 388.35 341.99 354.54" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+</svg>
