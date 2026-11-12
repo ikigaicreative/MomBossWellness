@@ -9,7 +9,7 @@ A dark-background submark for social and digital use (not print) is in Brand/Log
 MBW Avatar for IG.svg is sized and cropped for use as an Instagram profile photo.
 
 Color Palette
-MBW Color Palette.png documents the official brand colors, including the Deep Green, Gold, and Purple used across the logo variants.
+MBW Color Palette.png documents the official brand colors, including the Deep Green, Gold, and Purple used across the logo variants. MBW Color Palette.pdf is a one-page, letter-size (landscape) reference with each color's name, hex, RGB, and CMYK codes, made to print or send to others.
 
 Fonts
 Three type families make up the MomBossWellness type system: Montserrat (Regular and Italic, variable weight) for body and supporting text, Quicksand (Light, Regular, Medium, SemiBold, and Bold) as a versatile display and UI typeface, and Parisienne (Regular) as a script accent font for decorative use.
