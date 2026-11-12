@@ -1,0 +1,197 @@
+{
+  "personas": [
+    {
+      "id": "running-on-empty",
+      "name": "The Mom Running on Empty",
+      "tagline": "Still in the system, no margin left",
+      "icons": [
+        "running-on-empty",
+        "moon",
+        "breath",
+        "checklist",
+        "boundaries",
+        "release",
+        "water",
+        "stillness",
+        "time"
+      ]
+    },
+    {
+      "id": "rebuilding",
+      "name": "The Mom Rebuilding",
+      "tagline": "Through burnout, doing the work",
+      "icons": [
+        "rebuilding",
+        "village",
+        "boundaries",
+        "plant",
+        "calendar",
+        "shield",
+        "journal",
+        "together",
+        "presence"
+      ]
+    },
+    {
+      "id": "on-pause",
+      "name": "The Mom on Pause",
+      "tagline": "Stopped on purpose",
+      "icons": [
+        "on-pause",
+        "moon",
+        "sunrise",
+        "window",
+        "journal",
+        "mountain",
+        "leaf",
+        "heart",
+        "stillness"
+      ]
+    },
+    {
+      "id": "reinventing",
+      "name": "The Mom Reinventing",
+      "tagline": "Same drive, new direction",
+      "icons": [
+        "reinventing",
+        "orient",
+        "spark",
+        "design",
+        "lightbulb",
+        "seedling",
+        "growth",
+        "mountain",
+        "focus"
+      ]
+    },
+    {
+      "id": "builds",
+      "name": "The Mom Who Builds",
+      "tagline": "Left the table and built her own",
+      "icons": [
+        "builds",
+        "crown",
+        "growth",
+        "coin",
+        "wallet",
+        "shield",
+        "practice",
+        "expand",
+        "focus"
+      ]
+    }
+  ],
+  "realms": [
+    {
+      "id": "season",
+      "name": "Her Season",
+      "note": "One signature icon for each of the five mom personas",
+      "icons": [
+        "running-on-empty",
+        "rebuilding",
+        "on-pause",
+        "reinventing",
+        "builds"
+      ]
+    },
+    {
+      "id": "mind",
+      "name": "Mind",
+      "note": "Clarity, focus and the mental load",
+      "icons": [
+        "lightbulb",
+        "journal",
+        "focus",
+        "spark",
+        "checklist"
+      ]
+    },
+    {
+      "id": "heart",
+      "name": "Heart",
+      "note": "Emotional wellbeing and joy",
+      "icons": [
+        "heart",
+        "smile",
+        "sunrise",
+        "breath",
+        "release",
+        "sun"
+      ]
+    },
+    {
+      "id": "body",
+      "name": "Body",
+      "note": "Strength, rest and nourishment",
+      "icons": [
+        "strong",
+        "dumbbell",
+        "moon",
+        "water",
+        "apple",
+        "pulse"
+      ]
+    },
+    {
+      "id": "money",
+      "name": "Money",
+      "note": "Financial wellbeing and security",
+      "icons": [
+        "coin",
+        "growth",
+        "wallet",
+        "seedling",
+        "shield",
+        "crown"
+      ]
+    },
+    {
+      "id": "home",
+      "name": "Home",
+      "note": "Environment and the space around her",
+      "icons": [
+        "house",
+        "leaf",
+        "plant",
+        "mountain",
+        "window",
+        "calendar"
+      ]
+    },
+    {
+      "id": "village",
+      "name": "Village",
+      "note": "Relationships and community",
+      "icons": [
+        "together",
+        "family",
+        "conversation",
+        "gift",
+        "village"
+      ]
+    },
+    {
+      "id": "works",
+      "name": "What Works",
+      "note": "What the moms in the research say brings them back to themselves",
+      "icons": [
+        "stillness",
+        "boundaries",
+        "presence",
+        "time"
+      ]
+    },
+    {
+      "id": "path",
+      "name": "The Path",
+      "note": "The five steps of the Mom Boss Framework",
+      "icons": [
+        "orient",
+        "reclaim",
+        "design",
+        "practice",
+        "expand"
+      ]
+    }
+  ]
+}

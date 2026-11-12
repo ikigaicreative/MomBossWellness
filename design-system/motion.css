@@ -1,0 +1,9 @@
+/* Values tokens.json cannot hold: motion, and the shadow base color older pages build shadows from. */
+:root {
+  --shadow-color: 220 20% 20%;
+  --ease-standard: cubic-bezier(.4,0,.2,1);
+  --ease-out: cubic-bezier(0,0,.2,1);
+  --duration-fast: 150ms;
+  --duration-base: 250ms;
+  --duration-slow: 400ms;
+}

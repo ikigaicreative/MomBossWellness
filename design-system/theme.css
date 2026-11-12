@@ -1,0 +1,45 @@
+/* Mom Boss Wellness: shadcn/ui variables, font loading and base styles.
+   Paste into src/index.css after the @tailwind lines, or import it from there.
+   Light theme only. Values come from tokens.json. */
+@import "./tokens.css";
+@import "./motion.css";
+
+@layer base {
+  :root {
+    --background: 34 100% 97%;            /* ivory-light */
+    --foreground: 134 15% 17%;            /* rooted-ink */
+    --card: 0 0% 100%;                  /* white */
+    --card-foreground: 134 15% 17%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 134 15% 17%;
+    --primary: 120 11% 31%;               /* rooted-evergreen */
+    --primary-foreground: 34 100% 97%;    /* ivory-light */
+    --secondary: 331 17% 41%;             /* sovereign-plum */
+    --secondary-foreground: 34 100% 97%;
+    --muted: 39 72% 87%;                 /* sunlit-cream */
+    --muted-foreground: 33 8% 44%;      /* text-muted */
+    --accent: 281 39% 84%;                /* orchid-mist */
+    --accent-foreground: 285 33% 21%;     /* shadow-plum */
+    --destructive: 6 45% 45%;           /* state-error */
+    --destructive-foreground: 34 100% 97%;
+    --border: 39 27% 85%;                /* border-subtle */
+    --input: 39 27% 85%;
+    --ring: 120 11% 31%;                  /* rooted-evergreen */
+    --radius: 0.75rem;           /* radius-md, 12px */
+  }
+
+  * { @apply border-border; }
+
+  body {
+    @apply bg-background text-foreground font-body;
+    font-size: var(--text-base);
+    line-height: var(--leading-normal);
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    font-weight: var(--weight-semibold);
+    color: var(--text-heading);
+    line-height: var(--leading-snug);
+  }
+}
