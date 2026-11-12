@@ -6,32 +6,34 @@
 
 @layer base {
   :root {
-    --background: 34 100% 97%;            /* ivory-light */
-    --foreground: 134 15% 17%;            /* rooted-ink */
+    --background: 33.7 100% 96.9%;            /* ivory-light */
+    --foreground: 133.8 14.6% 17.5%;            /* rooted-ink */
     --card: 0 0% 100%;                  /* white */
-    --card-foreground: 134 15% 17%;
+    --card-foreground: 133.8 14.6% 17.5%;
     --popover: 0 0% 100%;
-    --popover-foreground: 134 15% 17%;
-    --primary: 120 11% 31%;               /* rooted-evergreen */
-    --primary-foreground: 34 100% 97%;    /* ivory-light */
-    --secondary: 331 17% 41%;             /* sovereign-plum */
-    --secondary-foreground: 34 100% 97%;
-    --muted: 39 72% 87%;                 /* sunlit-cream */
-    --muted-foreground: 33 8% 44%;      /* text-muted */
-    --accent: 281 39% 84%;                /* orchid-mist */
-    --accent-foreground: 285 33% 21%;     /* shadow-plum */
-    --destructive: 6 45% 45%;           /* state-error */
-    --destructive-foreground: 34 100% 97%;
-    --border: 39 27% 85%;                /* border-subtle */
-    --input: 39 27% 85%;
-    --ring: 120 11% 31%;                  /* rooted-evergreen */
+    --popover-foreground: 133.8 14.6% 17.5%;
+    --primary: 120 10.7% 31.2%;               /* rooted-evergreen */
+    --primary-foreground: 33.7 100% 96.9%;    /* ivory-light */
+    --secondary: 330.9 16.7% 41%;             /* sovereign-plum */
+    --secondary-foreground: 33.7 100% 96.9%;
+    --muted: 39.1 71.9% 87.5%;                 /* sunlit-cream */
+    --muted-foreground: 33.3 8% 44.3%;      /* text-muted */
+    --accent: 281.2 39% 83.9%;                /* orchid-mist */
+    --accent-foreground: 285 33.3% 21.2%;     /* shadow-plum */
+    --destructive: 5.7 45.5% 45.3%;           /* state-error */
+    --destructive-foreground: 33.7 100% 96.9%;
+    --border: 39 27% 85.5%;                /* border-subtle */
+    --input: 39 27% 85.5%;
+    --ring: 120 10.7% 31.2%;                  /* rooted-evergreen */
     --radius: 0.75rem;           /* radius-md, 12px */
   }
 
   * { @apply border-border; }
 
   body {
-    @apply bg-background text-foreground font-body;
+    @apply font-body;
+    background-color: var(--surface-page);
+    color: var(--text-body);
     font-size: var(--text-base);
     line-height: var(--leading-normal);
   }

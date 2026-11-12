@@ -13,17 +13,15 @@ Tokens, a Tailwind theme, fonts, logos, icons, and React components for building
 | `theme.css` | shadcn/ui variables mapped to brand colors, plus base styles. |
 | `tailwind.theme.ts` | Tailwind v3 preset and `mbwTheme` object. |
 | `fonts/` | Quicksand, Montserrat, Parisienne (TTF). |
-| `assets/logos/` | 33 logo, brandmark, submark, and workmark SVGs. |
+| `assets/logos/` | 28 logo, brandmark, submark, and workmark SVGs. |
 | `assets/icons/` | 48 line icons, a sprite, and `icon-guide.json`. |
 | `components/` | 15 React components, an index, and types. |
 
 ## Bring it into Lovable
 
-1. In Lovable, open Design Systems and choose to import from a Git URL. Use this repo: `https://github.com/ikigaicreative/mombosswellness`. Point it at the `design-system` folder. Lovable imports the default branch.
-2. Or upload the `design-system` folder directly.
-3. Release a version, then attach it to your project.
+Use the dedicated design system repo, **mombosswellness-design-system**. It is laid out the way Lovable reads a design system (tokens in `src/styles/`, `tailwind.config.ts` at the root, components in `src/components/`, a barrel at `src/index.ts`) and includes everything in this folder plus the brand assets.
 
-Design Systems are on Lovable paid plans.
+This folder stays here as a reference copy. Lovable does not document importing from a subfolder, so do not point Lovable at this repo.
 
 ## Use it in any Vite or React project
 
