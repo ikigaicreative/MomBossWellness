@@ -1,0 +1,109 @@
+/* Mom Boss Wellness Design System — generated from tokens.json */
+:root, [data-theme="light"] {
+  --color-crown-gold: #c0a265;
+  --color-rooted-evergreen: #475847;
+  --color-sovereign-plum: #7a5768;
+  --color-terra-rose: #9d6e61;
+  --color-sage-renewal: #848c5d;
+  --color-radiant-crown: #e8c35b;
+  --color-deep-grove: #2f4637;
+  --color-power-plum: #6d2f7d;
+  --color-ember-rose: #b46f5a;
+  --color-renewal-olive: #9ea85f;
+  --color-ivory-light: #fff8ef;
+  --color-rooted-ink: #263329;
+  --color-orchid-mist: #dcc6e6;
+  --color-shadow-plum: #3f2448;
+  --color-morning-sky: #a9d6d3;
+  --color-sunlit-cream: #f6e6c8;
+  --color-white: #ffffff;
+  --surface-page: var(--color-ivory-light);
+  --surface-card: var(--color-white);
+  --surface-sunken: var(--color-sunlit-cream);
+  --surface-inverse: var(--color-rooted-ink);
+  --surface-accent-soft: var(--color-orchid-mist);
+  --text-heading: var(--color-rooted-ink);
+  --text-body: #3a3530;
+  --text-muted: #7a7268;
+  --text-inverse: var(--color-ivory-light);
+  --text-link: var(--color-sovereign-plum);
+  --text-link-hover: var(--color-power-plum);
+  --border-subtle: #e4ddd0;
+  --border-strong: var(--color-rooted-evergreen);
+  --brand-primary: var(--color-rooted-evergreen);
+  --brand-primary-hover: var(--color-deep-grove);
+  --brand-secondary: var(--color-sovereign-plum);
+  --brand-secondary-hover: var(--color-power-plum);
+  --brand-gold: var(--color-crown-gold);
+  --brand-gold-hover: #a8874e;
+  --state-success: var(--color-sage-renewal);
+  --state-warning: var(--color-crown-gold);
+  --state-error: #a8493f;
+  --state-info: var(--color-morning-sky);
+  --shadow-soft: 0 1px 2px hsla(220, 20%, 20%, 0.06), 0 4px 16px hsla(220, 20%, 20%, 0.08);
+  --shadow-card: 0 2px 6px hsla(220, 20%, 20%, 0.07), 0 12px 32px hsla(220, 20%, 20%, 0.10);
+  --shadow-lifted: 0 8px 20px hsla(220, 20%, 20%, 0.12), 0 24px 48px hsla(220, 20%, 20%, 0.14);
+}
+:root {
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-20: 80px;
+  --space-24: 96px;
+  --space-32: 128px;
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-pill: 999px;
+  --text-xs: 0.8125rem;
+  --text-sm: 0.9375rem;
+  --text-base: 1.0625rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.625rem;
+  --text-2xl: 2.125rem;
+  --text-3xl: 2.75rem;
+  --text-4xl: 3.5rem;
+  --text-5xl: 4.5rem;
+  --leading-tight: 1.1;
+  --leading-snug: 1.3;
+  --leading-normal: 1.6;
+  --leading-relaxed: 1.75;
+  --tracking-tight: -0.01em;
+  --tracking-normal: 0em;
+  --tracking-wide: 0.04em;
+  --tracking-wider: 0.12em;
+  --weight-light: 300;
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+  --font-display: "Quicksand", sans-serif;
+  --font-body: "Montserrat", sans-serif;
+  --font-script: "Parisienne", cursive;
+}
+.display-light { font-family: var(--font-display); font-size: 40px; font-weight: 300; }
+.display-regular { font-family: var(--font-display); font-size: 40px; font-weight: 400; }
+.display-medium { font-family: var(--font-display); font-size: 40px; font-weight: 500; }
+.display-semibold { font-family: var(--font-display); font-size: 40px; font-weight: 600; }
+.display-bold { font-family: var(--font-display); font-size: 40px; font-weight: 700; }
+.body { font-family: var(--font-body); font-size: 17px; font-weight: 400; line-height: 1.6; }
+.body-italic { font-family: var(--font-body); font-size: 17px; font-weight: 400; line-height: 1.6; font-style: italic; }
+.body-semibold { font-family: var(--font-body); font-size: 17px; font-weight: 600; line-height: 1.6; }
+.caps-line { font-family: var(--font-display); font-size: 34px; font-weight: 700; letter-spacing: 0.12em; }
+.script-accent { font-family: var(--font-script); font-size: 44px; font-weight: 400; }
+@font-face { font-family: "Quicksand"; src: url("fonts/Quicksand-Light.ttf") format("truetype"); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: "Quicksand"; src: url("fonts/Quicksand-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Quicksand"; src: url("fonts/Quicksand-Medium.ttf") format("truetype"); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: "Quicksand"; src: url("fonts/Quicksand-SemiBold.ttf") format("truetype"); font-weight: 600; font-style: normal; font-display: swap; }
+@font-face { font-family: "Quicksand"; src: url("fonts/Quicksand-Bold.ttf") format("truetype"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "Montserrat"; src: url("fonts/Montserrat-VariableFont_wght.ttf") format("truetype"); font-weight: 100 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Montserrat"; src: url("fonts/Montserrat-Italic-VariableFont_wght.ttf") format("truetype"); font-weight: 100 900; font-style: italic; font-display: swap; }
+@font-face { font-family: "Parisienne"; src: url("fonts/Parisienne-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; font-display: swap; }
