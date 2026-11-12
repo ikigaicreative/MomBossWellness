@@ -19,7 +19,7 @@ Please use the color and social-optimized variants for their intended platforms,
 
 
 Icons
-Icons/MBW Line Icons holds 48 line icons (SVG and PNG) covering the wellness realms of the five mom personas, with icon-guide.json listing each one.
+Brand/Icons/MBW Line Icons holds 48 line icons (SVG and PNG) covering the wellness realms of the five mom personas, with icon-guide.json listing each one.
 
 Design System
-The design-system folder holds everything needed to build the website and apps on brand: tokens (JSON and CSS), a Tailwind theme, fonts, logos, icons, React components, and system.md with the usage rules. See design-system/README.md for how to import it into Lovable.
+The design-system folder holds everything needed to build the website and apps on brand: tokens (JSON and CSS), a Tailwind theme, fonts, logos, icons, React components, and system.md with the usage rules. For Lovable and developer handoff, use the dedicated mombosswellness-design-system repo, which is laid out the way Lovable reads a design system.
